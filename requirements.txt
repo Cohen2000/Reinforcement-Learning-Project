@@ -1,0 +1,15 @@
+matplotlib
+numpy==1.26.1
+torch
+box2d-py
+swig
+pygame
+mujoco
+gymnasium
+tensorboardx
+notebook
+imageio
+jupyterlab
+ipympl
+pink-noise-rl
+comprl @ git+https://github.com/martius-lab/teamproject-competition-server.git#egg=comprl&subdirectory=comprl
