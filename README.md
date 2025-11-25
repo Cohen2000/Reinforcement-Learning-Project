@@ -4,9 +4,9 @@ A project implementing 3 reinforcement learning algorithms for the Hockey enviro
 
 ## Supported Algorithms
 
-- **TD3**: Twin Delayed Deep Deterministic Policy Gradient (implemented by Luca Reichmann)
-- **SAC**: Soft Actor-Critic (implemented by Albert Borchardt)
-- **RND**: Random Network Distillation (implemented by Marvin Fischer)
+- **TD3**: Twin Delayed Deep Deterministic Policy Gradient 
+- **SAC**: Soft Actor-Critic 
+- **RND**: Random Network Distillation 
 
 ---
 
